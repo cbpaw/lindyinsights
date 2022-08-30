@@ -41,12 +41,12 @@ const benefitTwo = {
   bullets: [
     {
       title: "Data Science specialists of 7+ years",
-      desc: "Lindy Insights is designed as a mobile first responsive template.",
+      desc: "We have been around many corporate clients and have expert knowledge in the field.",
       icon: <PresentationChartLineIcon/>,
     },
     {
       title: "Highly technical skills",
-      desc: "This template is powered by latest technologies and tools.",
+      desc: "We offer high level quality code, deep knowledge, experience and great communication.",
       icon: <AdjustmentsIcon />,
     },
     {
