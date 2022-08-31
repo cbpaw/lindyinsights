@@ -36,7 +36,7 @@ export default function Footer() {
             </div>
 
             <div className="max-w-md mt-4 text-gray-500 dark:text-gray-400">
-              Lindy Insights is a company located in the The Netherland.
+              Lindy Insights is a company located in the Amsterdam, The Netherlands.
             </div>
 
             <div className="mt-5">
