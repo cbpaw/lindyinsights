@@ -19,7 +19,7 @@ export default function Hero() {
               <a
                 href="mailto:bas@lindyinsights.com"
                 rel="noopener"
-                className="px-8 py-4 text-lg font-medium text-center text-white bg-indigo-600 rounded-md ">
+                className="px-8 py-4 text-lg font-medium text-center text-white bg-darkBlue-600 rounded-md ">
                 Contact Us
               </a>
               {/* <a
@@ -47,7 +47,7 @@ export default function Hero() {
           <div className="">
             <Image
               src={heroImg}
-              width="616"
+              width="617"
               height="617"
               alt="Hero Illustration"
               layout="intrinsic"
