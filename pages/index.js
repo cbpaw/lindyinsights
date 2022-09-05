@@ -67,6 +67,7 @@ export default function Home() {
       <Faq />
       {/* <Cta /> */}
       <Footer />
+      <script src="//code.tidio.co/00wam4x3klfyldcyipx1ibef6njlkcda.js"></script>
       {/* <PopupWidget /> */}
       {/* <Test/> */}
     </>
